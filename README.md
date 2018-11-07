@@ -1,6 +1,14 @@
 # OpenWebDir
 An open and minimal link directory of web[sites].
 
+### PortableApps
+* https://portapps.github.io/apps
+* https://portableapps.com/apps
+* https://pendriveapps.com
+* https://www.pendrivelinux.com
+* http://www.portablefreeware.com
+* https://tinyapps.org
+
 ### Open Source Project Hosting
 * https://github.com
 * https://gitlab.com
