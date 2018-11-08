@@ -4,6 +4,9 @@ An open and minimal link directory of web[sites].
 ### Programming
 * https://devhints.io #Cheatsheets
 * https://codepen.io #Online Web development environment.
+##### Free Ebook Foundation
+* https://ebookfoundation.github.io/free-programming-books/free-programming-books.html #Programming Ebooks
+* https://ebookfoundation.github.io/free-programming-books/free-programming-playgrounds.html #Programming Playgrounds
 
 ### Share Tools
 ##### [code, notes, and snippets] [online]
