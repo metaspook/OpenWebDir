@@ -19,8 +19,11 @@ An open and minimal link directory of web[sites].
 * https://takeout.google.com #Google data view and export
 
 ### Linux Distros
-* https://forum.xda-developers.com/android/software-hacking/live-iso-adb-fastboot-driver-issues-t3526755
 * https://www.kali.org
+* https://www.ubuntu.com
+* https://www.archlinux.org
+* http://bbqlinux.org
+* https://forum.xda-developers.com/android/software-hacking/live-iso-adb-fastboot-driver-issues-t3526755
 
 ### Utility Apps
 * https://www.sordum.org
