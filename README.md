@@ -1,6 +1,11 @@
 # OpenWebDir
 An open and minimal link directory of web[sites].
 
+### Essential links
+Google data view and export
+https://contacts.google.com
+https://takeout.google.com
+
 ### Linux Distros
 * https://forum.xda-developers.com/android/software-hacking/live-iso-adb-fastboot-driver-issues-t3526755
 * https://www.kali.org
