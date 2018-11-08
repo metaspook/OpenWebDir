@@ -2,9 +2,8 @@
 An open and minimal link directory of web[sites].
 
 ### Essential links
-Google data view and export
-https://contacts.google.com
-https://takeout.google.com
+* https://contacts.google.com
+* https://takeout.google.com  #Google data view and export
 
 ### Linux Distros
 * https://forum.xda-developers.com/android/software-hacking/live-iso-adb-fastboot-driver-issues-t3526755
@@ -36,4 +35,5 @@ https://takeout.google.com
 * https://ufal.github.io/public-license-selector
 * https://choosealicense.com
 * https://creativecommons.org/choose
+* https://www.gnu.org/licenses
 
