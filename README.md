@@ -6,8 +6,8 @@ An open and minimal link directory of web[sites].
 * https://www.kali.org
 
 ### Utility Apps
-https://www.sordum.org
-http://www.angusj.com/resourcehacker
+* https://www.sordum.org
+* http://www.angusj.com/resourcehacker
 
 ### Portable Apps
 * https://portapps.github.io/apps
