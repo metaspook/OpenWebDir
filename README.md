@@ -1,9 +1,22 @@
 # OpenWebDir
 An open and minimal link directory of web[sites].
 
-### Essential links
+### Programming
+* https://devhints.io #Cheatsheets
+* https://codepen.io #Online Web development environment.
+
+### Share Tools
+##### [code, notes, and snippets] [online]
+* https://del.dog
+* https://pastebin.com
+* https://ghostbin.com
+* https://gist.github.com
+* https://hastebin.com
+* https://privatebin.net
+
+### Google links
 * https://contacts.google.com
-* https://takeout.google.com  #Google data view and export
+* https://takeout.google.com #Google data view and export
 
 ### Linux Distros
 * https://forum.xda-developers.com/android/software-hacking/live-iso-adb-fastboot-driver-issues-t3526755
