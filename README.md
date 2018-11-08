@@ -5,7 +5,11 @@ An open and minimal link directory of web[sites].
 * https://forum.xda-developers.com/android/software-hacking/live-iso-adb-fastboot-driver-issues-t3526755
 * https://www.kali.org
 
-### PortableApps
+### Utility Apps
+https://www.sordum.org
+http://www.angusj.com/resourcehacker
+
+### Portable Apps
 * https://portapps.github.io/apps
 * https://portableapps.com/apps
 * https://pendriveapps.com
