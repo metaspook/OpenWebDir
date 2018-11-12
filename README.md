@@ -8,8 +8,16 @@ An open and minimal link directory of web[sites].
 ##### Free Ebook Foundation
 * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html #Programming Ebooks
 * https://ebookfoundation.github.io/free-programming-books/free-programming-playgrounds.html #Programming Playgrounds
-##### Tiny-Python-3.6-Notebook
-* https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst
+* https://cuongquach.com/category/programming/python
+* [The Coder's Apprentice: Learning Programming with Python 3](http://spronck.net/pythonbook)
+* https://realpython.com
+* [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
+* [Learn Python, Break Python: A Beginner's Guide to Programming](http://learnpythonbreakpython.com)
+* https://www.python-course.eu
+* [Google's Python Class](https://developers.google.com/edu/python)
+* [The Python Guru: Python tutorials for beginners](https://thepythonguru.com)
+* [Natural Language Processing with Python](http://www.nltk.org/book)
+* [Convert HTML to PDF Like a Boss Using DocRaptor](https://thepythonguru.com/convert-html-pdf-like-boss-using-docraptor)
 
 ### Share Tools
 ##### [code, notes, and snippets] [online]
