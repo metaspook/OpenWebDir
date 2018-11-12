@@ -8,6 +8,8 @@ An open and minimal link directory of web[sites].
 ##### Free Ebook Foundation
 * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html #Programming Ebooks
 * https://ebookfoundation.github.io/free-programming-books/free-programming-playgrounds.html #Programming Playgrounds
+##### Tiny-Python-3.6-Notebook
+* https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst
 
 ### Share Tools
 ##### [code, notes, and snippets] [online]
