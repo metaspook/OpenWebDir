@@ -67,3 +67,6 @@ An open and minimal link directory of web[sites].
 * https://creativecommons.org/choose
 * https://www.gnu.org/licenses
 
+### Flagfox Add-ons
+* [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/?src=search)
+* [Ghostery – Privacy Ad Blocker](https://addons.mozilla.org/en-US/firefox/addon/ghostery)
