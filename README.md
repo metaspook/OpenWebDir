@@ -5,6 +5,8 @@ An open and minimal link directory of web[sites].
 * https://devhints.io #Cheatsheets
 * https://codepen.io #Online Web development environment.
 * http://programming-motherfucker.com/become.html #Programming Ebooks
+* [জাকিরের টেক ডায়েরি | প্রোগ্রামিং](https://jakir.me/category/programming)
+
 ##### Free Ebook Foundation
 * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html #Programming Ebooks
 * https://ebookfoundation.github.io/free-programming-books/free-programming-playgrounds.html #Programming Playgrounds
