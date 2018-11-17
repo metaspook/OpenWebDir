@@ -7,6 +7,11 @@ An open and minimal link directory of web[sites].
 * http://programming-motherfucker.com/become.html #Programming Ebooks
 * [জাকিরের টেক ডায়েরি | প্রোগ্রামিং](https://jakir.me/category/programming)
 
+### WordPress
+* [Fixing WP](https://fixingwp.com)
+* [FileZilla with WordPress](https://fixingwp.com/using-wordpress/how-to-use-filezilla-with-wordpress-upload-or-download-files)
+* [WordPress File Permissions](https://fixingwp.com/wordpress-security/how-to-change-wordpress-file-permissions)
+
 ##### Free Ebook Foundation
 * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html #Programming Ebooks
 * https://ebookfoundation.github.io/free-programming-books/free-programming-playgrounds.html #Programming Playgrounds
