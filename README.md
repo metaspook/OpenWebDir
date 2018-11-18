@@ -11,6 +11,9 @@ An open and minimal link directory of web[sites].
 * [Fixing WP](https://fixingwp.com)
 * [FileZilla with WordPress](https://fixingwp.com/using-wordpress/how-to-use-filezilla-with-wordpress-upload-or-download-files)
 * [WordPress File Permissions](https://fixingwp.com/wordpress-security/how-to-change-wordpress-file-permissions)
+* [WordPress Code Reference](https://developer.wordpress.org/reference)
+* [WordPress Developer Resources](https://developer.wordpress.org)
+* [WordPress Codex](https://codex.wordpress.org) - The online manual
 
 ##### Free Ebook Foundation
 * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html #Programming Ebooks
