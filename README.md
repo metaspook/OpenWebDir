@@ -4,6 +4,11 @@ An open and minimal link directory of web[sites].
 ### Domain and Hosting
 * https://park.io #Domain name backordering
 
+### Android
+* [Termux - Android terminal emulator and Linux environment app](https://termux.com)
+* [ANDRAX - Android penetration testing platform](https://andrax.thecrackertechnology.com)
+* [Kali Linux NetHunter - Android penetration testing platform](https://www.kali.org/kali-linux-nethunter)
+
 ### Programming
 * https://devhints.io #Cheatsheets
 * https://codepen.io #Online Web development environment.
