@@ -5,6 +5,9 @@ An open and minimal link directory of web[sites].
 * https://park.io #Domain name backordering
 * http://www.getfreedomain.name #free domain names
 
+### Cybersecurity
+* https://hackforums.net
+
 ### Android
 * [Termux - Android terminal emulator and Linux environment app](https://termux.com)
 * [ANDRAX - Android penetration testing platform](https://andrax.thecrackertechnology.com)
