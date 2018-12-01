@@ -3,6 +3,7 @@ An open and minimal link directory of web[sites].
 
 ### Domain and Hosting
 * https://park.io #Domain name backordering
+* http://www.getfreedomain.name #free domain names
 
 ### Android
 * [Termux - Android terminal emulator and Linux environment app](https://termux.com)
