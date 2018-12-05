@@ -27,6 +27,7 @@ An open and minimal link directory of web[sites].
 * [WordPress Code Reference](https://developer.wordpress.org/reference)
 * [WordPress Developer Resources](https://developer.wordpress.org)
 * [WordPress Codex](https://codex.wordpress.org) - The online manual
+* [Accordion Tables](http://preview.codecanyon.net/item/accordion-tables-faqs-columns-and-more/full_screen_preview/10333046?_ga=2.202658769.1334623942.1544006026-1484663197.1544006026)
 
 ##### Free Ebook Foundation
 * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html #Programming Ebooks
