@@ -4,6 +4,7 @@ An open and minimal link directory of web[sites].
 ### Domain and Hosting
 * https://park.io #Domain name backordering
 * http://www.getfreedomain.name #free domain names
+* https://www.webhosting.ninja
 * [Demo cPanel (WebHost Control Panel) and WHM (WebHost Manager Panel)](https://cpanel.com/demo)
 
 ### Online Payment Gateway
