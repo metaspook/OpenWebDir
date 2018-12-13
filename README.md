@@ -4,8 +4,8 @@ An open and minimal link directory of web[sites].
 ### Domain and Hosting
 * https://park.io #Domain name backordering
 * http://www.getfreedomain.name #free domain names
-* [Demo cPanel (WebHost Control Panel)](cpanel.com/demo)
-* [Demo WHM (WebHost Manager Panel)](trycpanel.net)
+* [Demo cPanel (WebHost Control Panel)](https://cpanel.com/demo)
+* [Demo WHM (WebHost Manager Panel)](https://trycpanel.net)
 
 ### Online Payment Gateway
 * https://www.sslcommerz.com
