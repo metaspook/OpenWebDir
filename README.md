@@ -19,6 +19,7 @@ An open and minimal link directory of web[sites].
 * [ANDRAX - Android penetration testing platform](https://andrax.thecrackertechnology.com)
 * [Kali Linux NetHunter - Android penetration testing platform](https://www.kali.org/kali-linux-nethunter)
 * [DriveDroid - Turn Android into bootable USB/CD-drive Device](https://www.drivedroid.io)
+* [Lucky Patcher](https://lucky-patcher.netbew.com)
 
 ### Programming
 * https://devhints.io #Cheatsheets
