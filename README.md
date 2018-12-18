@@ -21,11 +21,15 @@ An open and minimal link directory of web[sites].
 * [DriveDroid - Turn Android into bootable USB/CD-drive Device](https://www.drivedroid.io)
 * [Lucky Patcher](https://lucky-patcher.netbew.com)
 
+### File Hosting/Sharing
+* https://wetransfer.com
+
 ### Programming
 * https://devhints.io #Cheatsheets
 * https://codepen.io #Online Web development environment.
 * http://programming-motherfucker.com/become.html #Programming Ebooks
 * [জাকিরের টেক ডায়েরি | প্রোগ্রামিং](https://jakir.me/category/programming)
+* [GitHub Flavored Markdown Spec](https://github.github.com/gfm)
 
 ### WordPress
 * [Fixing WP](https://fixingwp.com)
