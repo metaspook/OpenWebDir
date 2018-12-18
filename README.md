@@ -7,6 +7,9 @@ An open and minimal link directory of web[sites].
 * https://www.webhosting.ninja
 * [Demo cPanel (WebHost Control Panel) and WHM (WebHost Manager Panel)](https://cpanel.com/demo)
 
+**BD Hostings**
+* https://bosshostbd.com
+
 ### Online Payment Gateway
 * https://www.sslcommerz.com
 * https://www.portwallet.com
