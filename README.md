@@ -16,6 +16,8 @@ An open and minimal link directory of web[sites].
 
 ### Cybersecurity
 * https://hackforums.net
+* https://securityxploded.com
+* https://securitytrainings.net
 
 ### Android
 * [Termux - Android terminal emulator and Linux environment app](https://termux.com)
