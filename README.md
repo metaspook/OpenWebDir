@@ -15,6 +15,7 @@ An open and minimal link directory of web[sites].
 * https://www.portwallet.com
 
 ### Cybersecurity
+* https://www.cybeseclabs.com
 * https://hackforums.net
 * https://securityxploded.com
 * https://securitytrainings.net
