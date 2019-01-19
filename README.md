@@ -28,6 +28,8 @@ An open and minimal link directory of web[sites].
 * [ANDRAX - Android penetration testing platform](https://andrax.thecrackertechnology.com)
 * [Kali Linux NetHunter - Android penetration testing platform](https://www.kali.org/kali-linux-nethunter)
 * [Kali NetHunter builds](https://build.nethunter.com/kalifs/kalifs-latest)
+* [Build Kernel for Pentesting (Kali NetHunter/Andrax/Termux) Guide-1](https://github.com/The-Cracker-Technology/ANDRAX-Mobile-Pentest/wiki/How-to-enable-monitor-mode-in-all-devices%3F)
+* [List of usb wireless adapters (monitor mode)](https://www.wifi-antennas.com/topic/43-list-of-usb-wireless-adapters-monitor-mode)
 * [DriveDroid - Turn Android into bootable USB/CD-drive Device](https://www.drivedroid.io)
 * [Lucky Patcher](https://lucky-patcher.netbew.com)
 
