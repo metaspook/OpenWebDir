@@ -18,6 +18,7 @@ An open and minimal link directory of web[sites].
 * https://www.cybeseclabs.com
 * https://hackforums.net
 * https://securityxploded.com
+* https://www.kitploit.com
 * https://securitytrainings.net
 * https://www.pwnieexpress.com
 * http://seclist.us
