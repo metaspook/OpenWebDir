@@ -90,7 +90,7 @@ An open and minimal link directory of web[sites].
 ### Utility Apps
 * https://www.sordum.org
 * http://www.angusj.com/resourcehacker
-
+* https://www.qrcode-monkey.com | Custom QR Code generator.
 ### Portable Apps
 * https://portapps.github.io/apps
 * https://portableapps.com/apps
