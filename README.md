@@ -43,16 +43,6 @@ An open and minimal link directory of web[sites].
 * http://programming-motherfucker.com/become.html #Programming Ebooks
 * [জাকিরের টেক ডায়েরি | প্রোগ্রামিং](https://jakir.me/category/programming)
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm)
-
-### WordPress
-* [Fixing WP](https://fixingwp.com)
-* [FileZilla with WordPress](https://fixingwp.com/using-wordpress/how-to-use-filezilla-with-wordpress-upload-or-download-files)
-* [WordPress File Permissions](https://fixingwp.com/wordpress-security/how-to-change-wordpress-file-permissions)
-* [WordPress Code Reference](https://developer.wordpress.org/reference)
-* [WordPress Developer Resources](https://developer.wordpress.org)
-* [WordPress Codex](https://codex.wordpress.org) - The online manual
-* [Accordion Tables](http://preview.codecanyon.net/item/accordion-tables-faqs-columns-and-more/full_screen_preview/10333046?_ga=2.202658769.1334623942.1544006026-1484663197.1544006026)
-
 ##### Free Ebook Foundation
 * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html #Programming Ebooks
 * https://ebookfoundation.github.io/free-programming-books/free-programming-playgrounds.html #Programming Playgrounds
@@ -66,6 +56,18 @@ An open and minimal link directory of web[sites].
 * [The Python Guru: Python tutorials for beginners](https://thepythonguru.com)
 * [Natural Language Processing with Python](http://www.nltk.org/book)
 * [Convert HTML to PDF Like a Boss Using DocRaptor](https://thepythonguru.com/convert-html-pdf-like-boss-using-docraptor)
+
+### WordPress
+* [Fixing WP](https://fixingwp.com)
+* [FileZilla with WordPress](https://fixingwp.com/using-wordpress/how-to-use-filezilla-with-wordpress-upload-or-download-files)
+* [WordPress File Permissions](https://fixingwp.com/wordpress-security/how-to-change-wordpress-file-permissions)
+* [WordPress Code Reference](https://developer.wordpress.org/reference)
+* [WordPress Developer Resources](https://developer.wordpress.org)
+* [WordPress Codex](https://codex.wordpress.org) - The online manual
+* [Accordion Tables](http://preview.codecanyon.net/item/accordion-tables-faqs-columns-and-more/full_screen_preview/10333046?_ga=2.202658769.1334623942.1544006026-1484663197.1544006026)
+##### Plugins
+* [Shortcodes Ultimate](https://wordpress.org/plugins/shortcodes-ultimate)
+
 
 ### Share Tools
 ##### [code, notes, and snippets] [online]
