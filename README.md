@@ -67,6 +67,7 @@ An open and minimal link directory of web[sites].
 * [Accordion Tables](http://preview.codecanyon.net/item/accordion-tables-faqs-columns-and-more/full_screen_preview/10333046?_ga=2.202658769.1334623942.1544006026-1484663197.1544006026)
 ##### Plugins
 * [Shortcodes Ultimate](https://wordpress.org/plugins/shortcodes-ultimate)
+* [AMP WP – Google AMP For WordPress](https://wordpress.org/plugins/amp-wp)
 
 
 ### Share Tools
