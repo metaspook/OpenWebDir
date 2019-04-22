@@ -17,6 +17,7 @@ An open and minimal link directory of web[sites].
 ### Cybersecurity
 * https://www.cybeseclabs.com
 * https://hackforums.net
+* https://nulledhack.com
 * https://securityxploded.com
 * https://www.kitploit.com
 * https://securitytrainings.net
@@ -33,6 +34,23 @@ An open and minimal link directory of web[sites].
 * [List of usb wireless adapters (monitor mode)](https://www.wifi-antennas.com/topic/43-list-of-usb-wireless-adapters-monitor-mode)
 * [DriveDroid - Turn Android into bootable USB/CD-drive Device](https://www.drivedroid.io)
 * [Lucky Patcher](https://lucky-patcher.netbew.com)
+* [[REF][GUIDE]Most up to date guide on CPU governors, I/O schedulers and more!](https://forum.xda-developers.com/general/general/ref-to-date-guide-cpu-governors-o-t3048957)
+
+### Linux
+* [zram vs zswap vs zcache Ultimate guide: when to use which one](https://askubuntu.com/questions/471912/zram-vs-zswap-vs-zcache-ultimate-guide-when-to-use-which-one)
+* [Difference between ZRAM and ZSWAP [closed]](https://stackoverflow.com/questions/18437205/difference-between-zram-and-zswap)
+
+### Windows
+* [Install Hyper-V on Windows 10](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/..%5cquick-start%5cenable-hyper-v)
+* [Microsoft Activation Scripts](https://www.nsaneforums.com/topic/316668-microsoft-activation-scripts-fork-open-source-clean-from-avs-detection)
+* [Multi-OEM/Retail Project {MRP}](https://forums.mydigitallife.net/threads/multi-oem-retail-project-mrp-mk3.71555)
+
+### Downloads
+* http://www.nirsoft.net | NirSoft utilities.
+* https://sharespark.org | Various downloads forum.
+* https://www.codecguide.com | K-Lite Codec + AMD/Nvidia Drivers + Misc.
+* https://codecpack.co | Useful applications.
+* https://www.filebot.net | The ultimate TV and Movie Renamer
 
 ### File Hosting/Sharing
 * https://wetransfer.com
@@ -56,6 +74,10 @@ An open and minimal link directory of web[sites].
 * [The Python Guru: Python tutorials for beginners](https://thepythonguru.com)
 * [Natural Language Processing with Python](http://www.nltk.org/book)
 * [Convert HTML to PDF Like a Boss Using DocRaptor](https://thepythonguru.com/convert-html-pdf-like-boss-using-docraptor)
+
+### Web-Development
+* [GTmetrix | Website Analyzer, Benchmarker](https://gtmetrix.com)
+
 
 ### WordPress
 * [Fixing WP](https://fixingwp.com)
