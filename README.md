@@ -24,6 +24,8 @@ An open and minimal link directory of web[sites].
 * https://www.pwnieexpress.com
 * http://seclist.us
 * https://github.com/aopp
+* https://latesthackingnews.com
+* https://www.zimperium.com
 
 ### Android
 * [Termux - Android terminal emulator and Linux environment app](https://termux.com)
@@ -56,6 +58,7 @@ An open and minimal link directory of web[sites].
 ### File Hosting/Sharing/Uloader
 * https://wetransfer.com
 * http://z-o-o-m.eu | Multi File & Image Uploader
+* https://www.multiup.org
 
 ### Programming
 * https://devhints.io #Cheatsheets
