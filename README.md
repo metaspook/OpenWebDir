@@ -53,8 +53,9 @@ An open and minimal link directory of web[sites].
 * https://codecpack.co | Useful applications.
 * https://www.filebot.net | The ultimate TV and Movie Renamer
 
-### File Hosting/Sharing
+### File Hosting/Sharing/Uloader
 * https://wetransfer.com
+* http://z-o-o-m.eu | Multi File & Image Uploader
 
 ### Programming
 * https://devhints.io #Cheatsheets
