@@ -55,6 +55,9 @@ An open and minimal link directory of web[sites].
 ### Downloads
 * http://www.nirsoft.net | NirSoft utilities.
 * https://sharespark.org | Various downloads forum.
+* http://www.p30download.com | Various downloads
+* http://portable.ir | Portable downloads
+* https://www.piratecity.net | Various downloads
 * https://www.codecguide.com | K-Lite Codec + AMD/Nvidia Drivers + Misc.
 * https://codecpack.co | Useful applications.
 * https://www.filebot.net | The ultimate TV and Movie Renamer
