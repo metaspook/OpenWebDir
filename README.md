@@ -26,6 +26,10 @@ An open and minimal link directory of web[sites].
 * https://github.com/aopp
 * https://latesthackingnews.com
 * https://www.zimperium.com
+* https://www.exploit-db.com
+* https://pentestlab.blog/2012/12/24/sql-injection-authentication-bypass-cheat-sheet/
+* https://esecurity.ir
+* http://www.ethicalhackx.com | CEH Downloads
 
 ### Android
 * [Termux - Android terminal emulator and Linux environment app](https://termux.com)
