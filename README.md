@@ -112,6 +112,7 @@ An open and minimal link directory of web[sites].
 * https://gist.github.com
 * https://hastebin.com
 * https://privatebin.net
+* https://pastehere.xyz
 
 ### Google links
 * https://contacts.google.com
