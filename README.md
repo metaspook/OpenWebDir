@@ -44,6 +44,7 @@ An open and minimal link directory of web[sites].
 * [[REF][GUIDE]Most up to date guide on CPU governors, I/O schedulers and more!](https://forum.xda-developers.com/general/general/ref-to-date-guide-cpu-governors-o-t3048957)
 #### Android Kernel
 * [android-linux-stable | Android kernel trees with linux-stable merged into them](https://github.com/android-linux-stable)
+* [Google Android Toolchain](https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9)
 * [Android Pentesting Kernel == Shuriken – Android Kernel on Steroids](https://scriptdotsh.com/index.php/2018/12/26/shuriken-android-kernel-on-steroids/)
 * [How to enable monitor mode in all devices? | ANDRAX](https://github.com/The-Cracker-Technology/ANDRAX-Mobile-Pentest/wiki/How-to-enable-monitor-mode-in-all-devices%3F)
 * [[TOOLCHAINS] [ARM/ARM64] [GCC 7.2.1] GNU and Linaro - September 15th, 2017](https://forum.xda-developers.com/android/development/toolchains-gnu-linaro-5th-2017-t3606941)
