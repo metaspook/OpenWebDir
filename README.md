@@ -15,6 +15,7 @@ An open and minimal link directory of web[sites].
 * https://www.portwallet.com
 
 ### Cybersecurity
+* https://scriptdotsh.com | Android Pentesting Kernel, Reverse Engineering and many.
 * https://www.cybeseclabs.com
 * https://hackforums.net
 * https://nulledhack.com
@@ -41,6 +42,16 @@ An open and minimal link directory of web[sites].
 * [DriveDroid - Turn Android into bootable USB/CD-drive Device](https://www.drivedroid.io)
 * [Lucky Patcher](https://lucky-patcher.netbew.com)
 * [[REF][GUIDE]Most up to date guide on CPU governors, I/O schedulers and more!](https://forum.xda-developers.com/general/general/ref-to-date-guide-cpu-governors-o-t3048957)
+#### Android Kernel
+* [Android Pentesting Kernel == Shuriken – Android Kernel on Steroids](https://scriptdotsh.com/index.php/2018/12/26/shuriken-android-kernel-on-steroids/)
+* [How to enable monitor mode in all devices? | ANDRAX](https://github.com/The-Cracker-Technology/ANDRAX-Mobile-Pentest/wiki/How-to-enable-monitor-mode-in-all-devices%3F)
+* [[TOOLCHAINS] [ARM/ARM64] [GCC 7.2.1] GNU and Linaro - September 15th, 2017](https://forum.xda-developers.com/android/development/toolchains-gnu-linaro-5th-2017-t3606941)
+* [[REFERENCE] How to compile an Android kernel](https://forum.xda-developers.com/android/software-hacking/reference-how-to-compile-android-kernel-t3627297)
+* [[REFERENCE] How to get an Android kernel up to date with linux-stable(https://forum.xda-developers.com/android/software-hacking/reference-how-to-upstream-android-kernel-t3626913)
+* [[ULTIMATE GUIDE][Noob Friendly]Compile your own android kernel from source](https://forum.xda-developers.com/android/software/ultimate-guide-compile-android-kernel-t2871276)
+* [[GUIDE]A Noob Guide On Building Your Own Custom Kernel (ARM & ARM64 & MTK)](https://forum.xda-developers.com/android/software/guide-easy-kernel-building-tutorial-t3581057)
+* [Android Kernel Features](https://elinux.org/Android_Kernel_Features)
+* [[Guide][Noobs Familiar]How To Build Android Kernel With Features!](https://forum.xda-developers.com/chef-central/android/guide-how-to-build-android-kernel-t3654336)
 
 ### Linux
 * [zram vs zswap vs zcache Ultimate guide: when to use which one](https://askubuntu.com/questions/471912/zram-vs-zswap-vs-zcache-ultimate-guide-when-to-use-which-one)
@@ -54,7 +65,8 @@ An open and minimal link directory of web[sites].
 
 ### Downloads
 * http://www.nirsoft.net | NirSoft utilities.
-* https://sharespark.org | Various downloads forum.
+* http://extramovies.guru | Dual audio movies.
+* https://sharespark.org | Dual audio movies, Various downloads forum.
 * http://www.p30download.com | Various downloads
 * http://portable.ir | Portable downloads
 * https://www.piratecity.net | Various downloads
@@ -68,6 +80,7 @@ An open and minimal link directory of web[sites].
 * https://www.multiup.org
 
 ### Programming
+* [GIT 101 - Newbie Friendly | GIT, GitHub, GitLab guide](https://forum.xda-developers.com/android/help/test-t3515907)
 * https://devhints.io #Cheatsheets
 * https://codepen.io #Online Web development environment.
 * http://programming-motherfucker.com/become.html #Programming Ebooks
