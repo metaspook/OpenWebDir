@@ -43,6 +43,7 @@ An open and minimal link directory of web[sites].
 * [Lucky Patcher](https://lucky-patcher.netbew.com)
 * [[REF][GUIDE]Most up to date guide on CPU governors, I/O schedulers and more!](https://forum.xda-developers.com/general/general/ref-to-date-guide-cpu-governors-o-t3048957)
 #### Android Kernel
+* [android-linux-stable | Android kernel trees with linux-stable merged into them](https://github.com/android-linux-stable)
 * [Android Pentesting Kernel == Shuriken – Android Kernel on Steroids](https://scriptdotsh.com/index.php/2018/12/26/shuriken-android-kernel-on-steroids/)
 * [How to enable monitor mode in all devices? | ANDRAX](https://github.com/The-Cracker-Technology/ANDRAX-Mobile-Pentest/wiki/How-to-enable-monitor-mode-in-all-devices%3F)
 * [[TOOLCHAINS] [ARM/ARM64] [GCC 7.2.1] GNU and Linaro - September 15th, 2017](https://forum.xda-developers.com/android/development/toolchains-gnu-linaro-5th-2017-t3606941)
@@ -52,6 +53,7 @@ An open and minimal link directory of web[sites].
 * [[GUIDE]A Noob Guide On Building Your Own Custom Kernel (ARM & ARM64 & MTK)](https://forum.xda-developers.com/android/software/guide-easy-kernel-building-tutorial-t3581057)
 * [Android Kernel Features](https://elinux.org/Android_Kernel_Features)
 * [[Guide][Noobs Familiar]How To Build Android Kernel With Features!](https://forum.xda-developers.com/chef-central/android/guide-how-to-build-android-kernel-t3654336)
+* [[MiMix][KERNEL][HMP/MIUI][Linux 3.18.31] Floppy Kernel [RC1.3][13/01/18]](https://forum.xda-developers.com/mi-mix/development/mimix-floppy-kernel-t3726272)
 
 ### Linux
 * [zram vs zswap vs zcache Ultimate guide: when to use which one](https://askubuntu.com/questions/471912/zram-vs-zswap-vs-zcache-ultimate-guide-when-to-use-which-one)
