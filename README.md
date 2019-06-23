@@ -73,6 +73,8 @@ An open and minimal link directory of web[sites].
 * [DirectX Runtimes SilentPack](https://www.wincert.net/forum/topic/10834-runtimes-directx-32-64-bits/?tab=comments#comment-94075)
 * [Win Toolkit](https://www.win-unattended.de/viewtopic.php?f=17&t=73)
 * [NTLite](https://www.ntlite.com)
+* [BusyBox for Windows](https://frippery.org/busybox)
+* [SDK Platform Tools - adb, fastboot](https://developer.android.com/studio/releases/platform-tools.html)
 
 ### Downloads
 * http://www.nirsoft.net | NirSoft utilities.
