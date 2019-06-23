@@ -56,6 +56,10 @@ An open and minimal link directory of web[sites].
 * [[Guide][Noobs Familiar]How To Build Android Kernel With Features!](https://forum.xda-developers.com/chef-central/android/guide-how-to-build-android-kernel-t3654336)
 * [[MiMix][KERNEL][HMP/MIUI][Linux 3.18.31] Floppy Kernel [RC1.3][13/01/18]](https://forum.xda-developers.com/mi-mix/development/mimix-floppy-kernel-t3726272)
 
+### Genuine Installation Media: (Windows /Office /Server)
+https://pastebin.com/raw/jduBSazJ
+https://textuploader.com/1dg85/raw
+
 ### Linux
 * [zram vs zswap vs zcache Ultimate guide: when to use which one](https://askubuntu.com/questions/471912/zram-vs-zswap-vs-zcache-ultimate-guide-when-to-use-which-one)
 * [Difference between ZRAM and ZSWAP [closed]](https://stackoverflow.com/questions/18437205/difference-between-zram-and-zswap)
