@@ -57,8 +57,8 @@ An open and minimal link directory of web[sites].
 * [[MiMix][KERNEL][HMP/MIUI][Linux 3.18.31] Floppy Kernel [RC1.3][13/01/18]](https://forum.xda-developers.com/mi-mix/development/mimix-floppy-kernel-t3726272)
 
 ### Genuine Installation Media: (Windows /Office /Server)
-https://pastebin.com/raw/jduBSazJ
-https://textuploader.com/1dg85/raw
+* https://pastebin.com/raw/jduBSazJ
+* https://textuploader.com/1dg85/raw
 
 ### Linux
 * [zram vs zswap vs zcache Ultimate guide: when to use which one](https://askubuntu.com/questions/471912/zram-vs-zswap-vs-zcache-ultimate-guide-when-to-use-which-one)
