@@ -71,7 +71,8 @@ An open and minimal link directory of web[sites].
 * [Multi-OEM/Retail Project {MRP}](https://forums.mydigitallife.net/threads/multi-oem-retail-project-mrp-mk3.71555)
 * [abbodi1406's Batch Scripts Repo + Offline .NET Framework 3.5 + Visual C++ Redistributable](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197)
 * [DirectX Runtimes SilentPack](https://www.wincert.net/forum/topic/10834-runtimes-directx-32-64-bits/?tab=comments#comment-94075)
-
+* [Win Toolkit](https://www.win-unattended.de/viewtopic.php?f=17&t=73)
+* [NTLite](https://www.ntlite.com)
 
 ### Downloads
 * http://www.nirsoft.net | NirSoft utilities.
