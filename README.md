@@ -91,8 +91,10 @@ An open and minimal link directory of web[sites].
 * https://wetransfer.com
 * http://z-o-o-m.eu | Multi File & Image Uploader
 * https://www.multiup.org
+* http://www.plunder.com
 
 ### Programming
+* https://veewom.com
 * [GIT 101 - Newbie Friendly | GIT, GitHub, GitLab guide](https://forum.xda-developers.com/android/help/test-t3515907)
 * https://devhints.io #Cheatsheets
 * https://codepen.io #Online Web development environment.
