@@ -75,6 +75,7 @@ An open and minimal link directory of web[sites].
 * [NTLite](https://www.ntlite.com)
 * [BusyBox for Windows](https://frippery.org/busybox)
 * [SDK Platform Tools - adb, fastboot](https://developer.android.com/studio/releases/platform-tools.html)
+* https://www.joseespitia.com | Windows Deployment, Scripting and Automation.
 
 ### Downloads
 * http://www.nirsoft.net | NirSoft utilities.
