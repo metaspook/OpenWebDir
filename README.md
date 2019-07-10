@@ -165,6 +165,7 @@ An open and minimal link directory of web[sites].
 * https://www.pendrivelinux.com
 * http://www.portablefreeware.com
 * https://tinyapps.org
+* https://www.textifier.net | Textifier - Online Text Manipulation
 
 ### Open Source Project Hosting
 * https://github.com
