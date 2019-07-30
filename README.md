@@ -142,6 +142,7 @@ An open and minimal link directory of web[sites].
 * https://hastebin.com
 * https://privatebin.net
 * https://pastehere.xyz
+* https://codeshare.io
 
 ### Google links
 * https://contacts.google.com
