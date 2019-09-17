@@ -78,11 +78,14 @@ An open and minimal link directory of web[sites].
 * https://www.joseespitia.com | Windows Deployment, Scripting and Automation.
 
 ### Downloads
+* https://filecr.com | FileCR - The Biggest Software Store.
 * http://www.nirsoft.net | NirSoft utilities.
 * http://extramovies.guru | Dual audio movies.
+https://katmoviehd.to | #Movies
 * https://sharespark.org | Dual audio movies, Various downloads forum.
 * http://www.p30download.com | Various downloads
 * http://portable.ir | Portable downloads
+* https://crackingpatching.com | Various downloads
 * https://www.piratecity.net | Various downloads
 * https://www.codecguide.com | K-Lite Codec + AMD/Nvidia Drivers + Misc.
 * https://codecpack.co | Useful applications.
