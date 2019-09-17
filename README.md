@@ -80,8 +80,8 @@ An open and minimal link directory of web[sites].
 ### Downloads
 * https://filecr.com | FileCR - The Biggest Software Store.
 * http://www.nirsoft.net | NirSoft utilities.
-* http://extramovies.guru | Dual audio movies.
-https://katmoviehd.to | #Movies
+* https://katmoviehd.to | Movies (Dual Audio)
+* http://extramovies.today | Movies (Dual Audio)
 * https://sharespark.org | Dual audio movies, Various downloads forum.
 * http://www.p30download.com | Various downloads
 * http://portable.ir | Portable downloads
