@@ -32,6 +32,8 @@ An open and minimal link directory of web[sites].
 * https://pentestlab.blog/2012/12/24/sql-injection-authentication-bypass-cheat-sheet/
 * https://esecurity.ir
 * http://www.ethicalhackx.com | CEH Downloads
+* http://pandawireless.com | List of Pentesting usb wireless adapters.
+* https://www.wifi-antennas.com/topic/43-list-of-usb-wireless-adapters-monitor-mode | List of Pentesting usb wireless adapters.
 
 ### Android
 * [Termux - Android terminal emulator and Linux environment app](https://termux.com)
