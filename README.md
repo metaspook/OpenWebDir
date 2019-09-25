@@ -16,6 +16,10 @@ An open and minimal link directory of web[sites].
 
 ### Cybersecurity
 * https://scriptdotsh.com | Android Pentesting Kernel, Reverse Engineering and many.
+* https://www.darknet.org.uk | Tools / News
+* http://www.breachthesecurity.com | Tools / News / Guide
+* https://github.com/fireeye/commando-vm | Security distribution
+* https://pentestbox.org | Portable Pentest Environment
 * https://www.payback-security.com
 * https://www.cybeseclabs.com
 * https://hackforums.net
@@ -79,6 +83,7 @@ An open and minimal link directory of web[sites].
 * [BusyBox for Windows](https://frippery.org/busybox)
 * [SDK Platform Tools - adb, fastboot](https://developer.android.com/studio/releases/platform-tools.html)
 * https://www.joseespitia.com | Windows Deployment, Scripting and Automation.
+* https://winaero.com | Windows utilities.
 
 ### Downloads
 * https://filecr.com | FileCR - The Biggest Software Store.
@@ -197,3 +202,9 @@ An open and minimal link directory of web[sites].
 ### Flagfox Add-ons
 * [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/?src=search)
 * [Ghostery – Privacy Ad Blocker](https://addons.mozilla.org/en-US/firefox/addon/ghostery)
+
+### Graphics Design
+* https://colornames.org | No color left unnamed
+
+### Mixed
+http://bugmenot.com | find and share logins
