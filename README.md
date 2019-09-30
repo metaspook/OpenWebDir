@@ -84,6 +84,7 @@ An open and minimal link directory of web[sites].
 * [SDK Platform Tools - adb, fastboot](https://developer.android.com/studio/releases/platform-tools.html)
 * https://www.joseespitia.com | Windows Deployment, Scripting and Automation.
 * https://winaero.com | Windows utilities.
+* https://www.raymond.cc | Utilities, Guides Tips
 
 ### Downloads
 * https://filecr.com | FileCR - The Biggest Software Store.
