@@ -85,6 +85,7 @@ An open and minimal link directory of web[sites].
 * https://www.joseespitia.com | Windows Deployment, Scripting and Automation.
 * https://winaero.com | Windows utilities.
 * https://www.raymond.cc | Utilities, Guides Tips
+* https://malwaretips.com/threads/how-to-slim-windows-10-and-make-it-superfast.91924/
 
 ### Downloads
 * https://filecr.com | FileCR - The Biggest Software Store.
