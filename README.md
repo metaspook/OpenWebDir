@@ -106,6 +106,7 @@ An open and minimal link directory of web[sites].
 * https://www.freecoursesonline.me | Udacity, Masterclass, Lynda, PHLearn, Pluralsight Free
 * https://nulledpremium.com | Paid Books, AudioBooks, Magazines For Free
 * https://onehack.us | FTU Discussion Forum
+* https://technet24.ir | Iranian Download hub.
 
 ### File Hosting/Sharing/Uloader
 * https://wetransfer.com
