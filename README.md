@@ -100,6 +100,7 @@ An open and minimal link directory of web[sites].
 * https://www.codecguide.com | K-Lite Codec + AMD/Nvidia Drivers + Misc.
 * https://codecpack.co | Useful applications.
 * https://www.filebot.net | The ultimate TV and Movie Renamer
+* https://tutsgalaxy.com | Free Courses & Tutorials
 * https://freetutorials.se | Udemy Paid Courses For Free
 * https://www.freecoursesonline.me | Udacity, Masterclass, Lynda, PHLearn, Pluralsight Free
 * https://nulledpremium.com | Paid Books, AudioBooks, Magazines For Free
