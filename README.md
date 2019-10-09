@@ -19,6 +19,9 @@ An open and minimal link directory of web[sites].
 * https://www.darknet.org.uk | Tools / News
 * http://www.breachthesecurity.com | Tools / News / Guide
 * https://github.com/fireeye/commando-vm | Security distribution
+* https://www.fireeye.com/blog/threat-research/2019/03/commando-vm-windows-offensive-distribution.html
+* https://pdrcybersecurity.com/10-sites-find-vulnerable-vms-testing
+* http://blog.pushebx.com/2011/03/penetration-testing-iso.html
 * https://pentestbox.org | Portable Pentest Environment
 * https://www.payback-security.com
 * https://www.cybeseclabs.com
