@@ -14,6 +14,11 @@ An open and minimal link directory of web[sites].
 * https://www.sslcommerz.com
 * https://www.portwallet.com
 
+### Mirrors
+* http://bd.releases.ubuntu.com [Ubuntu] Official BD
+* http://mirror.xeonbd.com [Various Linux] BD
+* http://mirror.dhakacom.com [Various Linux] BD
+
 ### Cybersecurity
 * https://scriptdotsh.com | Android Pentesting Kernel, Reverse Engineering and many.
 * https://www.darknet.org.uk | Tools / News
