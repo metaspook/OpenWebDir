@@ -72,6 +72,11 @@ An open and minimal link directory of web[sites].
 * [[Guide][Noobs Familiar]How To Build Android Kernel With Features!](https://forum.xda-developers.com/chef-central/android/guide-how-to-build-android-kernel-t3654336)
 * [[MiMix][KERNEL][HMP/MIUI][Linux 3.18.31] Floppy Kernel [RC1.3][13/01/18]](https://forum.xda-developers.com/mi-mix/development/mimix-floppy-kernel-t3726272)
 
+### Anonymity
+* https://fakenumber.net [Fake Phone Numbers Generator]
+* https://www.fakenamegenerator.com [Fake Name Generator]
+* https://temp-mail.org [Temporary Email Address+Inbox]
+
 ### Genuine Installation Media: (Windows /Office /Server)
 * https://pastebin.com/raw/jduBSazJ
 * https://textuploader.com/1dg85/raw
