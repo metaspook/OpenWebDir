@@ -20,7 +20,7 @@ An open and minimal link directory of web[sites].
 ### Mirrors
 * http://bd.releases.ubuntu.com [Ubuntu] Official BD
 * http://mirror.xeonbd.com [Various Linux] BD
-* http://mirror.dhakacom.com [Various Linux] BD
+*  http://mirror.amberit.com.bd | http://mirror.dhakacom.com [Various Linux] BD
 
 ### Cybersecurity
 * https://scriptdotsh.com | Android Pentesting Kernel, Reverse Engineering and many.
