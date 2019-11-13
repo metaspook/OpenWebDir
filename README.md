@@ -14,6 +14,9 @@ An open and minimal link directory of web[sites].
 * https://www.sslcommerz.com
 * https://www.portwallet.com
 
+### Virtualization
+* https://www.osboxes.org [Linux/Unix VM images for VirtualBox and VMware]
+
 ### Mirrors
 * http://bd.releases.ubuntu.com [Ubuntu] Official BD
 * http://mirror.xeonbd.com [Various Linux] BD
