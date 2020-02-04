@@ -91,7 +91,7 @@ An open and minimal link directory of web[sites].
 ### Windows
 * [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
 * [Install Hyper-V on Windows 10](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/..%5cquick-start%5cenable-hyper-v)
-* [Microsoft Activation Scripts](https://www.nsaneforums.com/topic/316668-microsoft-activation-scripts-fork-open-source-clean-from-avs-detection)
+* [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 * [Multi-OEM/Retail Project {MRP}](https://forums.mydigitallife.net/threads/multi-oem-retail-project-mrp-mk3.71555)
 * [abbodi1406's Batch Scripts Repo + Offline .NET Framework 3.5 + Visual C++ Redistributable](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197)
 * [DirectX Runtimes SilentPack](https://www.wincert.net/forum/topic/10834-runtimes-directx-32-64-bits/?tab=comments#comment-94075)
