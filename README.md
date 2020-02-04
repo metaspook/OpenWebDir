@@ -16,6 +16,7 @@ An open and minimal link directory of web[sites].
 
 ### Virtualization
 * https://www.osboxes.org [Linux/Unix VM images for VirtualBox and VMware]
+* Intel® Hardware Accelerated Execution Manager (Intel® HAXM) (https://github.com/intel/haxm)
 
 ### Mirrors
 * http://bd.releases.ubuntu.com [Ubuntu] Official BD
