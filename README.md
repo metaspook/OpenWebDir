@@ -133,6 +133,7 @@ An open and minimal link directory of web[sites].
 * http://www.plunder.com
 
 ### Programming
+* https://ss64.com | Command line reference – Database and OS scripting.
 * https://veewom.com
 * [GIT 101 - Newbie Friendly | GIT, GitHub, GitLab guide](https://forum.xda-developers.com/android/help/test-t3515907)
 * https://devhints.io #Cheatsheets
