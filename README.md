@@ -142,6 +142,7 @@ An open and minimal link directory of web[sites].
 * http://programming-motherfucker.com/become.html #Programming Ebooks
 * [জাকিরের টেক ডায়েরি | প্রোগ্রামিং](https://jakir.me/category/programming)
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm)
+* [GitHub Syntax Highlighting Keywords](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 ##### Free Ebook Foundation
 * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html #Programming Ebooks
 * https://ebookfoundation.github.io/free-programming-books/free-programming-playgrounds.html #Programming Playgrounds
