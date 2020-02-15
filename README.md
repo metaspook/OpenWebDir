@@ -25,6 +25,7 @@ An open and minimal link directory of web[sites].
 
 ### Cybersecurity
 * https://scriptdotsh.com | Android Pentesting Kernel, Reverse Engineering and many.
+* https://www.cyberpunk.rs | The Best Tutorials & CyberSecurity Tool Reviews
 * https://www.darknet.org.uk | Tools / News
 * http://www.breachthesecurity.com | Tools / News / Guide
 * https://github.com/fireeye/commando-vm | Security distribution
