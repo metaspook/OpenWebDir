@@ -139,6 +139,7 @@ An open and minimal link directory of web[sites].
 * http://www.plunder.com
 
 ### Programming
+* http://ciembor.github.io/4bit | Terminal Color Scheme Designer
 * https://ss64.com | Command line reference – Database and OS scripting.
 * https://veewom.com
 * [GIT 101 - Newbie Friendly | GIT, GitHub, GitLab guide](https://forum.xda-developers.com/android/help/test-t3515907)
@@ -150,6 +151,7 @@ An open and minimal link directory of web[sites].
 * [GitHub Syntax Highlighting Keywords](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 ##### Golang
 * https://gitlab.com/tslocum/cview | Terminal-based user interface toolkit
+* https://github.com/Trivernis/cryptpng | Store encrypted data inside a png 
 ##### Free Ebook Foundation
 * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html #Programming Ebooks
 * https://ebookfoundation.github.io/free-programming-books/free-programming-playgrounds.html #Programming Playgrounds
