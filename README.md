@@ -24,6 +24,8 @@ An open and minimal link directory of web[sites].
 *  http://mirror.amberit.com.bd | http://mirror.dhakacom.com [Various Linux] BD
 
 ### Cybersecurity
+* https://nmap.org | Network Security Scanner
+* https://nmap.org/npcap | Windows Packet Capture Library & Driver
 * https://cheatsheetseries.owasp.org | OWASP Cheat Sheet Series
 * https://owasp.org/projects | OWASP Projects
 * https://packetstormsecurity.com | Global Security Resource
