@@ -59,6 +59,7 @@ An open and minimal link directory of web[sites].
 * https://shrp.cf | SkyHawk Recovery - SHRP
 * [Termux - Android terminal emulator and Linux environment app](https://termux.com)
 * [ANDRAX - Android penetration testing platform](https://andrax.thecrackertechnology.com)
+* Kali NetHunter App Store | https://store.nethunter.com
 * [Kali Linux NetHunter - Android penetration testing platform](https://www.kali.org/kali-linux-nethunter)
 * [Kali NetHunter builds](https://build.nethunter.com/kalifs/kalifs-latest)
 * [Build Kernel for Pentesting (Kali NetHunter/Andrax/Termux) Guide-1](https://github.com/The-Cracker-Technology/ANDRAX-Mobile-Pentest/wiki/How-to-enable-monitor-mode-in-all-devices%3F)
