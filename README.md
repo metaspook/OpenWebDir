@@ -141,6 +141,9 @@ An open and minimal link directory of web[sites].
 * http://www.plunder.com
 
 ### Programming
+* https://javascript30.com | Build 30 things with vanilla JS in 30 days with 30 tutorials
+* http://www.speedcoder.net | Typing Practice for Programmers
+* https://www.shortcutfoo.com | Learn shortcuts and commands
 * http://ciembor.github.io/4bit | Terminal Color Scheme Designer
 * https://ss64.com | Command line reference – Database and OS scripting.
 * https://veewom.com
