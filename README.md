@@ -126,6 +126,7 @@ An open and minimal link directory of web[sites].
 * https://www.codecguide.com | K-Lite Codec + AMD/Nvidia Drivers + Misc.
 * https://codecpack.co | Useful applications.
 * https://www.filebot.net | The ultimate TV and Movie Renamer
+* https://tutorialsplanet.net | Download Paid Udemy Courses
 * https://freetuts.download | Free Courses & Tutorials Download Links
 * https://tutsgalaxy.com | Free Courses & Tutorials
 * https://freetutorials.se | Udemy Paid Courses For Free
@@ -141,6 +142,7 @@ An open and minimal link directory of web[sites].
 * http://www.plunder.com
 
 ### Programming
+* https://ethereum.org | open-source platform for decentralized applications.
 * https://javascript30.com | Build 30 things with vanilla JS in 30 days with 30 tutorials
 * http://www.speedcoder.net | Typing Practice for Programmers
 * https://www.shortcutfoo.com | Learn shortcuts and commands
