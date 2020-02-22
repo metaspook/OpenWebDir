@@ -142,6 +142,7 @@ An open and minimal link directory of web[sites].
 * http://www.plunder.com
 
 ### Programming
+* https://nodered.org | Low-code programming for event-driven applications
 * https://www.polymer-project.org | Libraries, tools, and standards for a better web.
 * https://ethereum.org | open-source platform for decentralized applications.
 * https://javascript30.com | Build 30 things with vanilla JS in 30 days with 30 tutorials
