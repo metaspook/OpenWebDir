@@ -73,7 +73,9 @@ An open and minimal link directory of web[sites].
 * APK Editor Studio * | https://qwertycube.com/apk-editor-studio
 * https://jaspreetsingh.store | Android Reverse engineering/Patching/Spoofing toolkits.
 * APK Easy Tool | https://forum.xda-developers.com/android/software-hacking/tool-apk-easy-tool-v1-02-windows-gui-t3333960
-* APK Studio | https://vaibhavpandey.com/apkstudio/
+* APK Studio | https://vaibhavpandey.com/apkstudio
+* APK Tools-Windows-GUI * | https://forum.xda-developers.com/showthread.php?t=2732580
+* APK Multi-Tool * | https://forum.xda-developers.com/showthread.php?t=1310151
 * Apktool - Reverse engineering tool | https://ibotpeaches.github.io/Apktool
 #### Android Kernel
 * [android-linux-stable | Android kernel trees with linux-stable merged into them](https://github.com/android-linux-stable)
