@@ -69,6 +69,12 @@ An open and minimal link directory of web[sites].
 * [DriveDroid - Turn Android into bootable USB/CD-drive Device](https://www.drivedroid.io)
 * [Lucky Patcher](https://lucky-patcher.netbew.com)
 * [[REF][GUIDE]Most up to date guide on CPU governors, I/O schedulers and more!](https://forum.xda-developers.com/general/general/ref-to-date-guide-cpu-governors-o-t3048957)
+#### Develop/Hack Tools
+* APK Editor Studio * | https://qwertycube.com/apk-editor-studio
+* https://jaspreetsingh.store | Android Reverse engineering/Patching/Spoofing toolkits.
+* APK Easy Tool | https://forum.xda-developers.com/android/software-hacking/tool-apk-easy-tool-v1-02-windows-gui-t3333960
+* APK Studio | https://vaibhavpandey.com/apkstudio/
+* Apktool - Reverse engineering tool | https://ibotpeaches.github.io/Apktool
 #### Android Kernel
 * [android-linux-stable | Android kernel trees with linux-stable merged into them](https://github.com/android-linux-stable)
 * [Google Android Toolchain](https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9)
