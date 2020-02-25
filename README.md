@@ -150,6 +150,8 @@ An open and minimal link directory of web[sites].
 * http://www.plunder.com
 
 ### Programming
+* https://developer.github.com | GitHub Developer Guide
+* https://phptherightway.com | PHP: The Right Way
 * https://nodered.org | Low-code programming for event-driven applications
 * https://www.polymer-project.org | Libraries, tools, and standards for a better web.
 * https://ethereum.org | open-source platform for decentralized applications.
