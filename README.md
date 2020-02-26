@@ -150,6 +150,7 @@ An open and minimal link directory of web[sites].
 * http://www.plunder.com
 
 ### Programming
+* https://sass-lang.com | CSS with superpowers
 * https://developer.github.com | GitHub Developer Guide
 * https://phptherightway.com | PHP: The Right Way
 * https://nodered.org | Low-code programming for event-driven applications
