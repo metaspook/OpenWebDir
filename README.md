@@ -19,9 +19,11 @@ An open and minimal link directory of web[sites].
 * Intel® Hardware Accelerated Execution Manager (Intel® HAXM) (https://github.com/intel/haxm)
 
 ### Mirrors
+* https://mirrors.dotsrc.org [Various Linux in http, https and ftp]
 * http://bd.releases.ubuntu.com [Ubuntu] Official BD
 * http://mirror.xeonbd.com [Various Linux] BD
-*  http://mirror.amberit.com.bd | http://mirror.dhakacom.com [Various Linux] BD
+* http://mirror.amberit.com.bd || http://mirror.dhakacom.com [Various Linux] BD
+* https://repo.mysql.com/apt [MySQL Repo]
 
 ### Cybersecurity
 * https://nmap.org | Network Security Scanner
